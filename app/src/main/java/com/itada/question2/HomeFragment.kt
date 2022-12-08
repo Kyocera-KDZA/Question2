@@ -19,8 +19,8 @@ class HomeFragment : Fragment() {
         // Inflate the layout for this fragment
         val view = inflater.inflate(R.layout.fragment_home,container, false)
 
-        val rate = view.findViewById<Spinner>(R.id.spinner)
-        val rateBtn = view.findViewById<Button>(R.id.btn_home)
+        val rate = view.findViewById<Spinner>(R.id.spinner3)
+        val rateBtn = view.findViewById<Button>(R.id.btnHome)
 
         rateBtn.setOnClickListener {
             it.findNavController().navigate(R.id.action_homeFragment_to_rateActivity)

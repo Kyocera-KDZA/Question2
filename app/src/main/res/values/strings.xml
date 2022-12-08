@@ -5,31 +5,36 @@
     <string name="txtv_secondFrag">Second fragment</string>
     <string name="txtv_thirdFrag">Third fragment</string>
     <string name="txtv_infoAct">Information Activity</string>
-    <string name="txt_navHeading">Information App</string>
-    <string name="txt_navSubHeading">ITADAB34 by JWFY27ZW2</string>
+    <string name="txt_navHeading">Rate Football Clubs</string>
+    <string name="txt_navSubHeading">by Student JWFY27ZW2</string>
     <string name="men_home">Home</string>
-    <string name="men_frag1">First</string>
-    <string name="men_frag2">Second</string>
+    <string name="men_frag1">Manchester City FC</string>
+    <string name="men_frag2">Manchester United FC</string>
     <string name="men_group1">Group 1</string>
     <string name="men_actInfo">Info Activity</string>
     <string name="men_act2">Activity 2</string>
-    <string name="men_frag3">Third</string>
-    <string name="men_group0">Main Menu</string>
+    <string name="men_frag3">Liverpool FC</string>
+    <string name="men_group0">Clubs</string>
     <string name="open">Open</string>
     <string name="close">Close</string>
 
+    <string name="imageDescription">Club Emblem</string>
+
+
+    <string name="clubDescription">Football Club Description:</string>
+    <string name="clubRate">Rate Football Club</string>
+
     <string name="homeTitle">Home Title</string>
-    <string name="homeDesc">Home Description</string>
+    <string name="homeDesc">Welcome to the English Premier League Clubs App. Please use the navigation drawer on your left to select the football club you would like to rate</string>
 
     <string name="firstTitle">1 Title</string>
-    <string name="firstDesc">1 Description</string>
+    <string name="firstDesc">Manchester City Football Club are an English football club based in Manchester that competes in the Premier League, the top flight of English football. </string>
 
     <string name="secondTitle">2 Title</string>
-    <string name="secondDesc">2 Description</string>
+    <string name="secondDesc">Manchester United Football Club glish football club based in Manchester that competes in the Premier League, the top flight of English football.</string>
 
     <string name="thirdTitle">3 Title</string>
-    <string name="thirdDesc">3 Description</string>
-
+    <string name="thirdDesc">Liverpool Football Club is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Founded in 1892, the club joined the Football League the following year and has played its home games at Anfield since its formation.</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="btn_home">Rate</string>

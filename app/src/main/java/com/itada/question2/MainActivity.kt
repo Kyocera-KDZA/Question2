@@ -7,6 +7,7 @@ import android.view.MenuItem
 import android.widget.Toast
 import android.widget.Toolbar
 import androidx.appcompat.app.ActionBarDrawerToggle
+import androidx.core.view.GravityCompat
 import androidx.drawerlayout.widget.DrawerLayout
 import androidx.fragment.app.Fragment
 import androidx.navigation.NavController
@@ -41,6 +42,9 @@ class MainActivity : AppCompatActivity() {
         supportActionBar?.setDisplayHomeAsUpEnabled(true)
 
         nav.setNavigationItemSelectedListener {
+
+            drawer.closeDrawer(GravityCompat.START)
+
 
             it.isChecked = true
             when(it.itemId){

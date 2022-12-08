@@ -28,16 +28,4 @@
 
     </item>
 
-    <item android:title="@string/men_group1">
-        <menu>
-            <item
-                android:id="@+id/nav_actInfo"
-                android:icon="@android:drawable/ic_menu_help"
-                android:title="@string/men_actInfo"/>
-            <item
-                android:id="@+id/nav_act2"
-                android:icon="@android:drawable/sym_action_email"
-                android:title="@string/men_act2" />
-        </menu>
-    </item>
 </menu>
